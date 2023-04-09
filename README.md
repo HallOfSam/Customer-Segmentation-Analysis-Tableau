@@ -8,7 +8,7 @@
 <img width="500" alt="Dashboard_RFM" src="https://user-images.githubusercontent.com/59977422/230797597-cd802dee-8073-46f2-a867-b3458a1c335d.png">
 
 
-To understand more details of the project, please read the summary below:![Uploading Dashboard_RFM.png…]()![Uploading Dashboard_RFM.png…]()
+To understand more details of the project, please read the summary below:
 
 
 
