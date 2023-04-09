@@ -3,7 +3,7 @@
 **The analysis is achieved through documenting channel buying patterns by leveraging RFM ranking, heatmap analysis, and trendline plotting, as shwon in Tableau dashboards.**
 
 
-To understand more details of the project, please read the following:
+To understand more details of the project, please read the summary below:
 
 Following our analysis of the broader dataset, our group chose to conduct a more in-depth analysis of Category O. While Category O only represents approximately 1% of the total dataset, we believe it is important to fully analyze category O so that one can pinpoint sources of underperformance and areas of potential improvement. We believe this to be true for several reasons, including: 
 
