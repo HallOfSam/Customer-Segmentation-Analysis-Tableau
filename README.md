@@ -4,10 +4,12 @@
 
 <img width="500" alt="Dashboard_Trendline" src="https://user-images.githubusercontent.com/59977422/230797527-97e71959-1844-4bf0-a85e-834b0fe713f1.png">
 
-<img width="500" alt="Dashboard_RFM" src="https://user-images.githubusercontent.com/59977422/230797550-79c7cda3-b7c0-4abd-b64e-b32fa11e91c5.png">
+
+<img width="500" alt="Dashboard_RFM" src="https://user-images.githubusercontent.com/59977422/230797597-cd802dee-8073-46f2-a867-b3458a1c335d.png">
 
 
-To understand more details of the project, please read the summary below:![Uploading Dashboard_RFM.png…]()
+To understand more details of the project, please read the summary below:![Uploading Dashboard_RFM.png…]()![Uploading Dashboard_RFM.png…]()
+
 
 
 Following our analysis of the broader dataset, our group chose to conduct a more in-depth analysis of Category O. While Category O only represents approximately 1% of the total dataset, we believe it is important to fully analyze category O so that one can pinpoint sources of underperformance and areas of potential improvement. We believe this to be true for several reasons, including: 
