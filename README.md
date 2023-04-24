@@ -1,6 +1,6 @@
 # Overview 
 
-- Below is a customer order segmentation analysis, where I analyzed confidential direct marketing dataset (226K records, 100K customers) to guide customer engagement strategies.**
+- Below is a customer order segmentation analysis, where I analyzed confidential direct marketing dataset (226K records, 100K customers) to guide customer engagement strategies.
 
 - The analysis is achieved through documenting channel buying patterns by leveraging RFM ranking, heatmap analysis, and trendline plotting, as shwon in Tableau dashboards.
 
