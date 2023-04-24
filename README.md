@@ -4,10 +4,9 @@
 
 - The analysis is achieved through documenting channel buying patterns by leveraging RFM ranking, heatmap analysis, and trendline plotting, as shwon in Tableau dashboards.
 
-<img width="500" alt="Dashboard_Trendline" src="https://user-images.githubusercontent.com/59977422/230797527-97e71959-1844-4bf0-a85e-834b0fe713f1.png">
+![Level 1 Dashboard](https://user-images.githubusercontent.com/59977422/234101568-a285e423-5e8f-4e05-b427-3ab6ba9f89aa.png)
 
-
-<img width="500" alt="Dashboard_RFM" src="https://user-images.githubusercontent.com/59977422/230797597-cd802dee-8073-46f2-a867-b3458a1c335d.png">
+![Level 2 Dashboard](https://user-images.githubusercontent.com/59977422/234101598-54a98585-9c95-4a87-9c8f-4ab45f1edc89.png)
 
 
 # Quick Glimpse of the Summary
