@@ -40,5 +40,8 @@ We undertook several analyses to dive deeper into Category O.
 
 - The final analysis we undertook was a market basket analysis to understand which products customers buy, and to see which combination of items customers buy (if they purchase multiple products within Category O). 
 
+<img width="500" alt="Growth Rate" src="https://user-images.githubusercontent.com/59977422/234102849-dcba3026-ebcb-4794-a48a-8e40c0c254a8.png">
+
+
 # Conslusion
 Based on all these analyses, we have determined that Category O was worthwhile to examine, and worthwhile to further invest in and grow. There is great potential among the female customer base, and there is also great potential to cross-sell products, with an emphasis on high and medium ranking RFM customers. 
