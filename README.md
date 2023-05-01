@@ -96,7 +96,7 @@
 To understand more details of the project, please read the summary below:
 
 # Why We Choose This Specific Category To Study
-Following our analysis of the broader dataset, our group chose to conduct a more in-depth analysis of Category O. While Category O only represents approximately 1% of the total dataset, we believe it is important to fully analyze category O so that one can pinpoint sources of underperformance and areas of potential improvement. We believe this to be true for several reasons, including: 
+Following my analysis of the broader dataset, I chose to conduct a more in-depth analysis of Category O. While Category O only represents approximately 1% of the total sales, we believe it is important to fully analyze category O so that one can pinpoint sources of underperformance and areas of potential improvement. We believe this to be true for several reasons, including: 
 
 1. Category O has historically sold more to women than men. While we cannot know exactly why this is the case based purely on the data provided, we can utilize the data from Category O to potentially replicate this success in the female demographic across other categories. 
 
@@ -120,4 +120,4 @@ We undertook several analyses to dive deeper into Category O.
 
 
 # Conslusion
-Based on all these analyses, we have determined that the C-suites and management of Category O need to constantly monitor the metrics proposed above and address the problems associated with each metric. 
+Based on the result of the analyses above, I have identified the 2 main problems afflicting category O: **small sales volume and lack of high RFM ranking customers**. Thus, the C-suites and management of Category O need to constantly monitor the metrics proposed in the dashboards above to understand underperformance issues and address the 2 problems.
