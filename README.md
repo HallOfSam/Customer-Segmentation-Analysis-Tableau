@@ -1,10 +1,10 @@
 # Overview 
 
-- Below is a customer order segmentation analysis, where I analyzed confidential direct marketing dataset (226K records, 100K customers) to guide customer engagement strategies.
+(1) Below is a customer order segmentation analysis, where I analyzed confidential direct marketing dataset (226K records, 100K customers) to guide customer engagement strategies.
 
-- The analysis is achieved through documenting channel buying patterns by leveraging RFM ranking, heatmap analysis, and trendline plotting, as shwon in Tableau dashboards.
+(2) The analysis is achieved through documenting channel buying patterns by leveraging RFM ranking, heatmap analysis, and trendline plotting, as shwon in Tableau dashboards.
 
-- Throught my analysis shown in the following dashboards, I discover 2 main problems faced by category O: **small sales volume and lack of high RFM ranking customers**. Therefore, with the help of the 2 dashboards below, we explain what actionable insgihts we can extract from the metrics.
+(3) Through my analysis, I discover 2 main problems faced by category O: **small sales volume and lack of high RFM ranking customers**. Therefore, with the help of the 2 dashboards below, I can explain what actionable insgihts we can extract from the metrics.
 
 # Level 1 Dashboard
 
