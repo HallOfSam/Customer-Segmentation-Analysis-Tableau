@@ -4,7 +4,7 @@
 
 - The analysis is achieved through documenting channel buying patterns by leveraging RFM ranking, heatmap analysis, and trendline plotting, as shwon in Tableau dashboards.
 
-- Throught our analysis shown in the following dashboards, we discover the 2 main problems faced by category O: **small sales volume and lack of high RFM ranking customers**. Therefore, with the help of the 2 dashboards below, we explain what actionable insgihts we can extract from the metrics.
+- Throught my analysis shown in the following dashboards, I discover 2 main problems faced by category O: **small sales volume and lack of high RFM ranking customers**. Therefore, with the help of the 2 dashboards below, we explain what actionable insgihts we can extract from the metrics.
 
 # Level 1 Dashboard
 
