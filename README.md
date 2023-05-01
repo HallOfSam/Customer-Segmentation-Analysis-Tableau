@@ -12,16 +12,42 @@
 
 ![Level 1 Dashboard](https://user-images.githubusercontent.com/59977422/234101923-e15129f0-1d96-400b-84c5-da7712642a29.png)
 
-- Why do we present these metrics?
+- What these metrics are and why we present them
 
-(1) The category needs to increase sales
--> benchmark on market leaders
--> identify successful products
--> gauge divisional performance
--> understand disparity in sales in different geographical markets
+(1) Overall Category Revenue with Benchmark (Quarterly)
 
-(2) The category needs to obtain high RFM ranking customers
--> reverse trend of losing high RFM ranking customers
+- See how the category is performing over time compared to benchmark categories, such as sales leader category T and E.
+
+- Actionable insight: if sales patterns of category O do not follow benchmark patterns at some quarters, executives should diagnose potential causes of missed growth opportunities (e.g. 2006 Q2) to avoid future mistakes. 
+
+(2) Sales by Division ID (Quarterly)
+
+- Understand which of the 2 divisions is performing better in terms of sales.
+
+- Actionable insight: if a division underperforms, executives should evaluate the long-term viability of that division.
+
+
+(3) Top 5 Products with Highest Sales (Quarterly)
+
+- Identify which product(s) drive the most sales in the category. 
+
+Actionable insight: executives can allocate resources to these products within the category to boost growth.
+
+
+(4) Customers by RFM Score (Yearly)
+
+- Visualize the customer behaviors over the years.
+
+- Actionable insight: executive can pinpoint years when higher RFM ranking customers were lost and identify causes (e.g. 2008).
+
+
+
+(5) Sales Heat Map (Overall)
+
+- Allows executives to see a visual of sales by geographic region
+
+- Actionable insight: executives can target specific geographic regions: develop small / new markets and retain lucrative markets (e.g. 77304, Texas).
+
 
 # Level 2 Dashboard
 
