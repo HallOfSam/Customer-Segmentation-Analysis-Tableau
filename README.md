@@ -4,11 +4,15 @@
 
 - The analysis is achieved through documenting channel buying patterns by leveraging RFM ranking, heatmap analysis, and trendline plotting, as shwon in Tableau dashboards.
 
-- Level 1 Dashboard: Dashboard 1 is specifically for C-level executives who are interested in the long-term success of the business. By utilizing Dashboard 1, C-level executives should be able to gain a high-level understanding of the most important marketing and sales metrics related to the category of interest. 
+# Level 1 Dashboard: 
+
+- Dashboard 1 is specifically for C-level executives who are interested in the long-term success of the business. By utilizing Dashboard 1, C-level executives should be able to gain a high-level understanding of the most important marketing and sales metrics related to the category of interest. 
 
 ![Level 1 Dashboard](https://user-images.githubusercontent.com/59977422/234101923-e15129f0-1d96-400b-84c5-da7712642a29.png)
 
-- Level 2 Dashboard:
+# Level 2 Dashboard:
+
+- Dashboard 2 is specifically for marketing managers who are interested in both the short-term and long-term success of the business. By utilizing Dashboard 2, marketing managers should be able to gain an in-depth understanding of how marketing and sales are acting across the category of interest.
 
 ![Level 2 Dashboard](https://user-images.githubusercontent.com/59977422/234101598-54a98585-9c95-4a87-9c8f-4ab45f1edc89.png)
 
