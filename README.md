@@ -4,13 +4,26 @@
 
 - The analysis is achieved through documenting channel buying patterns by leveraging RFM ranking, heatmap analysis, and trendline plotting, as shwon in Tableau dashboards.
 
-# Level 1 Dashboard: 
+- Throught our analysis shown in the following dashboards, we discover the 2 main problems faced by category O: **small sales volume and lack of high RFM ranking customers**. Therefore, with the help of the 2 dashboards below, we explain what actionable insgihts we can extract from the metrics.
+
+# Level 1 Dashboard
 
 - Dashboard 1 is specifically for C-level executives who are interested in the long-term success of the business. By utilizing Dashboard 1, C-level executives should be able to gain a high-level understanding of the most important marketing and sales metrics related to the category of interest. 
 
 ![Level 1 Dashboard](https://user-images.githubusercontent.com/59977422/234101923-e15129f0-1d96-400b-84c5-da7712642a29.png)
 
-# Level 2 Dashboard:
+- Why do we present these metrics?
+
+(1) The category needs to increase sales
+-> benchmark on market leaders
+-> identify successful products
+-> gauge divisional performance
+-> understand disparity in sales in different geographical markets
+
+(2) The category needs to obtain high RFM ranking customers
+-> reverse trend of losing high RFM ranking customers
+
+# Level 2 Dashboard
 
 - Dashboard 2 is specifically for marketing managers who are interested in both the short-term and long-term success of the business. By utilizing Dashboard 2, marketing managers should be able to gain an in-depth understanding of how marketing and sales are acting across the category of interest.
 
@@ -39,11 +52,11 @@ We undertook several analyses to dive deeper into Category O.
 - The second analysis we undertook was a closer look at trends by year and gender. Category O sold more in quantity to females compared to males across most of the period the dataset covers. The data also suggests seasonality of the category. Most of the units were sold between October and January suggesting it could be an essential product for Winter or the festive season. 
 
 
-- The third analysis we undertook was an RFM analysis to understand which customers may be most valuable to Category O. This analysis also allowed us to understand which types of customers we may want to target based on who our current most profitable customers are. Also, we have leveraged a heatmap analysis to see where these customers are located.
+- The third analysis we undertook was an RFM analysis to understand which customers may be most valuable to Category O. This analysis also allowed us to understand which types of customers we may want to target based on who our current most profitable customers are. Also, we have leveraged a heatmap analysis to see where these customers are geographically located.
 
 
 - The final analysis we undertook was a market basket analysis to understand which products customers buy, and to see which combination of items customers buy (if they purchase multiple products within Category O). 
 
 
 # Conslusion
-Based on all these analyses, we have determined that Category O was worthwhile to examine, and worthwhile to further invest in and grow. There is great potential among the female customer base, and there is also great potential to cross-sell products, with an emphasis on high and medium ranking RFM customers. 
+Based on all these analyses, we have determined that the C-suites and management of Category O need to constantly monitor the metrics proposed above and address the problems associated with each metric. 
