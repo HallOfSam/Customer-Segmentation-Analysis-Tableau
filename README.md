@@ -12,7 +12,7 @@
 
 ![Level 1 Dashboard](https://user-images.githubusercontent.com/59977422/234101923-e15129f0-1d96-400b-84c5-da7712642a29.png)
 
-- What these metrics are and why we present them
+## What these metrics are and why we present them
 
 (1) Overall Category Revenue with Benchmark (Quarterly)
 
