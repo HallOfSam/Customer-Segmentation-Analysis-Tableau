@@ -13,7 +13,7 @@
 
 ![Level 1 Dashboard](https://user-images.githubusercontent.com/59977422/234101923-e15129f0-1d96-400b-84c5-da7712642a29.png)
 
-## What these metrics are and why we present them
+## What These Metrics Are and Why We Present Them
 
 (1) Overall Category Revenue with Benchmark (Quarterly)
 
@@ -56,7 +56,7 @@
 
 ![Level 2 Dashboard](https://user-images.githubusercontent.com/59977422/234101598-54a98585-9c95-4a87-9c8f-4ab45f1edc89.png)
 
-## What these metrics are and why we present them
+## What These Metrics Are and Why We Present Them
 
 (1) Overall Category Revenue (Weekly)
 
@@ -95,7 +95,7 @@
 # Quick Glimpse of the Summary
 To understand more details of the project, please read the summary below:
 
-# Why We Choose This Specific Category To Study
+# Why We Choose this Specific Category to Study
 Following my analysis of the broader dataset, I chose to conduct a more in-depth analysis of Category O. While Category O only represents approximately 1% of the total sales, we believe it is important to fully analyze category O so that one can pinpoint sources of underperformance and areas of potential improvement. We believe this to be true for several reasons, including: 
 
 1. Category O has historically sold more to women than men. While we cannot know exactly why this is the case based purely on the data provided, we can utilize the data from Category O to potentially replicate this success in the female demographic across other categories. 
